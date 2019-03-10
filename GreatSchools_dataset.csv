@@ -1,0 +1,649 @@
+index,ID,Name,Type,City,Zip,Grade,Rating1,Rating2,RatingAll,lat,lon,Enrollment
+0,2512,Florence Elementary School,public,Florence,76527,PK-5,4,4,6.4,30.84529,-97.79381,486
+1,2513,Florence High School,public,Florence,76527,9-12,4,3,5.9,30.832527,-97.798096,308
+2,2516,Florence Middle School,public,Florence,76527,6-8,4,4,6.4,30.83157,-97.79259,231
+3,7299,Sts. Cyril and Methodius Catholic,private,Granger,76530,PK-6,4,4,6.4,30.707022,-97.416504,231
+4,3063,Granger School,public,Granger,76530,PK-12,4,4,6.4,30.717693,-97.44278,406
+5,3803,Jarrell Elementary School,public,Jarrell,76537,PK-2,4,3,5.9,30.82491,-97.604454,531
+6,3804,Jarrell High School,public,Jarrell,76537,9-12,4,5,6.9,30.82491,-97.604454,390
+7,3805,Jarrell Middle School,public,Jarrell,76537,6-8,3,4,5.300000000000001,30.82491,-97.604454,288
+8,24996,Jarrell Intermediate School,public,Jarrell,76537,3-5,4,4,6.4,30.82491,-97.604454,214
+9,7297,St Mary's Catholic School,private,Taylor,76574,PK-8,4,5,6.9,30.572277,-97.40736,175
+10,7752,St Paul Lutheran School,private,Taylor,76574,PK-5,4,5,6.9,30.572395,-97.41327,72
+11,6577,Main Street Intermediate School,public,Taylor,76574,4-5,5,4,7.5,30.593216,-97.417496,436
+12,6579,Naomi Pasemann Elementary School,public,Taylor,76574,1-3,5,2,6.5,30.589348,-97.430336,670
+13,6575,Taylor High School,public,Taylor,76574,9-12,3,3,4.800000000000001,30.547806,-97.42882,1001
+14,6576,Taylor Middle School,public,Taylor,76574,6-8,3,3,4.800000000000001,30.599075,-97.42869,710
+15,6644,Thrall Elementary School,public,Thrall,76578,PK-4,6,4,8.600000000000001,30.588749,-97.29388,289
+16,6645,Thrall High School,public,Thrall,76578,9-12,6,5,9.100000000000001,30.588749,-97.29388,217
+17,10036,Thrall Middle School,public,Thrall,76578,5-8,7,5,10.200000000000001,30.588749,-97.29388,142
+18,18857,Gateway School,public,Bastrop,78602,6-12,7,5,10.200000000000001,30.095057,-97.3204,47
+19,676,Emile Elementary School,public,Bastrop,78602,PK-4,3,5,5.800000000000001,30.107655,-97.31039,584
+20,679,Mina Elementary School,public,Bastrop,78602,PK-4,5,3,7.0,30.113,-97.314896,543
+21,24312,Calvary Episcopal School,private,Bastrop,78602,PK-5,5,3,7.0,30.111212,-97.32071,100
+22,683,Genesis High School,public,Bastrop,78602,9-12,5,5,8.0,30.116964,-97.3151,74
+23,24898,Colorado River Collegiate Academy,public,Bastrop,78602,9-12,8,5,11.3,30.116964,-97.3151,107
+24,677,Bastrop High School,public,Bastrop,78602,9-12,4,4,6.4,30.117737,-97.310326,1348
+25,681,Bastrop Intermediate School,public,Bastrop,78602,5-6,2,3,3.7,30.113092,-97.33571,705
+26,678,Bastrop Middle School,public,Bastrop,78602,7-8,4,3,5.9,30.11297,-97.34198,707
+27,7896,Nazarene Christian School,private,Bastrop,78602,PK-12,4,3,5.9,30.098392,-97.260124,707
+28,27,Jack C Hays High School,public,Buda,78610,9-12,5,3,7.0,30.032078,-97.88938,2611
+29,9651,Live Oak Academy,public,Buda,78610,9-12,5,4,7.5,30.029325,-97.88918,142
+30,29,R C Barton Middle School,public,Buda,78610,6-8,7,4,9.700000000000001,30.027357,-97.89095,1027
+31,10148,Cedar Creek Intermediate School,public,Cedar Creek,78612,5-6,3,3,4.800000000000001,30.094069,-97.48156,802
+32,9461,Cedar Creek Middle School,public,Cedar Creek,78612,7-8,5,4,7.5,30.09496,-97.479904,836
+33,4257,C. C. Mason Elementary School (Col. Charles Clayborn),public,Cedar Park,78613,PK-5,4,4,6.4,30.521107,-97.855446,645
+34,4252,Leander High School,public,Leander,78641,9-12,7,4,9.700000000000001,30.537853,-97.85165,2194
+35,11846,Knox Wiley Middle School,public,Leander,78641,6-8,8,4,10.8,30.570274,-97.82227,951
+36,24707,Priority Charter School - Leander,charter,Leander,78641,"PK, 12",8,4,10.8,30.571247,-97.82248,200
+37,12028,Rouse High School,public,Leander,78641,9-12,7,4,9.700000000000001,30.572021,-97.82046,2393
+38,20428,Florence W Stiles Middle School,public,Leander,78646,6-8,9,3,11.4,30.568718,-97.84873,950
+39,20429,Officer Leonard A Reed Elementary School,public,Leander,78646,PK-5,4,3,5.9,30.568718,-97.84873,723
+40,25601,Monta Jane Akin Elementary School,public,Leander,78646,PK-5,4,3,5.9,30.568718,-97.84873,723
+41,4258,Leander Middle School,public,Leander,78641,6-8,6,4,8.600000000000001,30.573706,-97.85208,919
+42,10039,New Hope High School,public,Leander,78641,9-12,8,5,11.3,30.573816,-97.85441,42
+43,24893,Christine Camacho Elementary School,public,Leander,78641,PK-5,4,4,6.4,30.574112,-97.857994,602
+44,1637,Coupland Elementary School,public,Coupland,78615,PK-8,6,4,8.600000000000001,30.45337,-97.390526,150
+45,25405,Alma Brewer Strawn El,public,Dale,78616,PK-5,2,4,4.2,30.003544,-97.61373,17
+46,9356,Pathfinder Camp,charter,Driftwood,78619,K-12,3,4,5.300000000000001,30.150454,-98.06,17
+47,7904,St. Stephen's Episcopal School,private,Wimberley,78610,PK-6,3,4,5.300000000000001,30.046429,-98.00923,95
+48,20128,Dragonfly International School,private,Dripping Springs,78620,PK-6,3,4,5.300000000000001,30.192316,-98.09493,75
+49,25542,Sycamore Springs Middle,public,Dripping Springs,78620,6-8,3,4,5.300000000000001,30.192947,-98.093544,75
+50,25543,Sycamore Springs Elementary School,public,Dripping Springs,78620,PK-5,3,4,5.300000000000001,30.192947,-98.093544,75
+51,18,Dripping Springs Elementary School,public,Dripping Springs,78620,PK-5,7,5,10.200000000000001,30.190207,-98.08668,937
+52,19,Dripping Springs High School,public,Dripping Springs,78620,9-12,7,4,9.700000000000001,30.190207,-98.08668,1669
+53,20,Dripping Springs Middle School,public,Dripping Springs,78620,6-8,8,4,10.8,30.190207,-98.08668,1265
+54,21,Walnut Springs Elementary School,public,Dripping Springs,78620,PK-5,7,4,9.700000000000001,30.190207,-98.08668,885
+55,11784,Rooster Springs Elementary School,public,Dripping Springs,78737,PK-5,8,4,10.8,30.190207,-98.08668,863
+56,24361,Dripping Springs Christian Academy,private,Dripping Springs,78620,PK-12,8,4,10.8,30.190207,-98.08668,78
+57,25171,The King's Academy,private,Dripping Springs,78620,K-11,8,4,10.8,30.191578,-98.08535,50
+58,9652,Phoenix High School,public,Elgin,78621,9-12,8,4,10.8,30.347801,-97.378525,38
+59,2444,Booker T Washington Elementary School,public,Elgin,78621,PK-5,2,4,4.2,30.341745,-97.365234,612
+60,2446,Elgin Middle School,public,Elgin,78621,6-8,3,3,4.800000000000001,30.336813,-97.36702,954
+61,2447,Elgin El,public,Elgin,78621,PK-5,2,3,3.7,30.349562,-97.379906,808
+62,10256,Neidig Elementary School,public,Elgin,78621,PK-5,2,4,4.2,30.361216,-97.40893,632
+63,2445,Elgin High School,public,Elgin,78621,9-12,4,3,5.9,30.36737,-97.40594,1277
+64,2930,East View High School,public,Georgetown,78626,9-12,5,4,7.5,30.64053,-97.61746,1560
+65,11574,St Helen Catholic School,private,Georgetown,78626,PK-8,5,4,7.5,30.636074,-97.64672,171
+66,9463,Charles A Forbes Middle School,public,Georgetown,78626,6-8,3,4,5.300000000000001,30.661646,-97.648964,735
+67,2926,Pat Cooper Elementary School,public,Georgetown,78626,PK-5,2,4,4.2,30.661392,-97.650215,542
+68,19133,Georgetown Alter Prog,public,Georgetown,78626,6-12,2,4,4.2,30.636496,-97.61282,24
+69,25598,Goodwater Montessori School,charter,Georgetown,78626,PK-8,2,4,4.2,30.668259,-97.65357,24
+70,19142,James E Mitchell Elementary School,public,Georgetown,78626,PK-5,1,5,3.6,30.619495,-97.64233,730
+71,2919,Georgetown High School,public,Georgetown,78626,9-12,5,3,7.0,30.662043,-97.667145,1915
+72,2932,Chip Richarte High School,public,Georgetown,78626,9-12,5,5,8.0,30.664368,-97.66593,84
+73,2922,Annie Purl Elementary School,public,Georgetown,78626,PK-5,5,5,8.0,30.62582,-97.66621,453
+74,25599,George Wagner Middle,public,Georgetown,78626,6-8,5,5,8.0,30.63498,-97.672516,453
+75,11545,Grace Academy of Georgetown,private,Georgetown,78633,K-12,5,5,8.0,30.6379,-97.6769,217
+76,11533,Covenant Christian Academy,private,Georgetown,78628,"PK-2, 4-12",5,5,8.0,30.658249,-97.6778,217
+77,12282,Community Montessori School,private,Georgetown,78626,PK-6,5,4,7.5,30.616251,-97.676506,180
+78,2921,James Tippit Middle School,public,Georgetown,78628,6-8,3,3,4.800000000000001,30.615925,-97.69923,838
+79,2927,Dell Pickett Elementary School,public,Georgetown,78628,PK-5,4,3,5.9,30.614622,-97.69844,309
+80,19143,Parkside Elementary School,public,Georgetown,78628,PK-5,7,5,10.200000000000001,30.577724,-97.77043,937
+81,19881,Gateway High School,charter,Georgetown,78628,9-12,4,5,6.9,30.662537,-97.6902,101
+82,25419,KINGSLAND SCHOOL,charter,Georgetown,78628,K-8,4,5,6.9,30.662537,-97.6902,101
+83,25445,Nolan Creek School,charter,Georgetown,78628,K-5,4,5,6.9,30.662537,-97.6902,101
+84,2923,Frost Elementary School,public,Georgetown,78628,PK-5,1,5,3.6,30.670864,-97.689064,366
+85,2925,Douglas Benold Middle School,public,Georgetown,78628,6-8,5,3,7.0,30.672337,-97.6894,871
+86,10323,Jo Ann Ford Elementary School,public,Georgetown,78633,PK-5,7,4,9.700000000000001,30.688526,-97.72885,569
+87,2931,Village Elementary School,public,Georgetown,78633,PK-5,5,5,8.0,30.698523,-97.71367,370
+88,2928,Raye Mccoy Elementary School,public,Georgetown,78628,PK-5,6,4,8.600000000000001,30.693657,-97.70509,613
+89,9358,Annunciation Maternity Home,charter,Georgetown,78628,6-12,1,4,3.1,30.715946,-97.67534,11
+90,19257,Farley Middle School,public,Hutto,78634,6-8,6,3,8.100000000000001,30.516012,-97.54312,738
+91,11930,Ray Elementary School,public,Hutto,78634,PK-5,7,5,10.200000000000001,30.516035,-97.53926,738
+92,9124,Susie Fuentes Elementary School,public,Kyle,78640,PK-5,4,4,6.4,29.999384,-97.83461,566
+93,10262,Science Hall Elementary School,public,Kyle,78640,PK-5,3,2,4.300000000000001,30.014977,-97.83824,703
+94,10223,Armando Chapa Middle School,public,Kyle,78640,6-8,3,3,4.800000000000001,30.021078,-97.83268,731
+95,9653,Lehman High School,public,Kyle,78640,9-12,4,4,6.4,29.997078,-97.850914,2432
+96,11414,Camino Real Elementary School,public,Niederwald,78640,PK-5,3,5,5.800000000000001,30.005226,-97.76191,785
+97,19306,Ralph Pfluger Elementary School,public,Buda,78610,PK-5,7,5,10.200000000000001,30.039387,-97.82311,630
+98,25335,Dr T C Mccormick Jr Middle,public,Kyle,78640,6-8,3,5,5.800000000000001,30.006512,-97.861916,630
+99,25603,IDEA Kyle Academy,charter,Kyle,78640,K-3,3,5,5.800000000000001,29.997192,-97.8641,630
+100,25612,IDEA Kyle College Prep,charter,Kyle,78640,6-7,3,5,5.800000000000001,29.997192,-97.8641,630
+101,9122,Tobias Elementary School,public,Kyle,78640,PK-5,2,4,4.2,29.975027,-97.86091,747
+102,28,Kyle Elementary School,public,Kyle,78640,PK-5,4,4,6.4,29.989105,-97.87723,660
+103,12138,Olympia Hills,charter,Buda,78610,3-9,4,2,5.4,30.062399,-97.81938,24
+104,12300,Rocking Horse Academy,private,Kyle,78640,PK-1,4,3,5.9,30.013395,-97.88259,24
+105,9123,Laura B Negley Elementary School,public,Kyle,78640,PK-5,6,4,8.600000000000001,30.01118,-97.8837,759
+106,32,Tom Green Elementary School,public,Buda,78610,PK-5,3,5,5.800000000000001,30.063946,-97.81891,660
+107,9464,Laura B Wallace Middle School,public,Kyle,78640,6-8,3,5,5.800000000000001,29.991646,-97.88925,950
+108,20663,Harbor Christian Academy,private,Leander,78641,PK-11,3,5,5.800000000000001,30.514875,-97.88883,55
+109,20592,Harbor Leadership Academy,private,Leander,78641,PK-12,3,5,5.800000000000001,30.514875,-97.88883,40
+110,4254,Whitestone Elementary School,public,Leander,78641,PK-5,6,4,8.600000000000001,30.547764,-97.87001,733
+111,11848,William J Winkley Elementary School,public,Leander,78641,PK-5,7,4,9.700000000000001,30.538088,-97.86595,682
+112,10038,Patricia Knowles Elementary School,public,Cedar Park,78613,PK-5,5,5,8.0,30.53136,-97.86506,710
+113,8720,Bagdad Elementary School,public,Leander,78641,PK-5,4,3,5.9,30.579556,-97.87896,570
+114,9462,Running Brushy Middle School,public,Cedar Park,78613,6-8,6,4,8.600000000000001,30.53097,-97.860664,1271
+115,20073,Sterling Classical School,private,Leander,78641,PK-12,8,4,10.8,30.578302,-97.870125,300
+116,4340,Liberty Hill Elementary School,public,Liberty Hill,78642,PK-4,8,4,10.8,30.667772,-97.92544,548
+117,4341,Liberty Hill High School,public,Liberty Hill,78642,9-12,6,4,8.600000000000001,30.68003,-97.95239,1089
+118,25600,Rancho Sienna Elementary School,public,Liberty Hill,78642,PK-4,6,4,8.600000000000001,30.666945,-97.9209,1089
+119,9126,Liberty Hill Intermediate School,public,Liberty Hill,78642,5-6,7,4,9.700000000000001,30.662329,-97.90645,548
+120,4342,Liberty Hill J High School,public,Liberty Hill,78642,7-8,7,4,9.700000000000001,30.663187,-97.90155,512
+121,25033,Meridell,charter,Liberty Hill,78642,K-12,2,4,4.2,30.664148,-97.893555,107
+122,11872,Bill Burden Elementary School,public,Liberty Hill,78642,PK-4,7,5,10.200000000000001,30.660912,-97.88932,782
+123,4389,Lockhart High School,public,Lockhart,78644,9-12,3,3,4.800000000000001,29.872595,-97.67737,1086
+124,4390,Navarro Elementary School,public,Lockhart,78644,K-5,4,4,6.4,29.873379,-97.68135,497
+125,4393,Clear Fork Elementary School,public,Lockhart,78644,K-5,3,3,4.800000000000001,29.875446,-97.68258,575
+126,12466,Lockhart Secure Work Prgram Facilities,private,Lockhart,78644,9-12,3,3,4.800000000000001,29.87018,-97.65498,575
+127,24584,Pegasus School,charter,Lockhart,78644,3-12,1,5,3.6,29.884945,-97.67,182
+128,12208,The Gospel Lighthouse Christian Academy,private,Lockhart,78644,PK-10,1,5,3.6,29.848577,-97.66726,28
+129,25272,Focus Preparatory Classical School,private,Lockhart,78644,4-12,1,5,3.6,29.885544,-97.67124,22
+130,9466,Lockhart J High School,public,Lockhart,78644,6-8,3,4,5.300000000000001,29.873697,-97.701454,1148
+131,4395,Plum Creek Elementary School,public,Lockhart,78644,K-5,3,5,5.800000000000001,29.892218,-97.666145,557
+132,4398,Lockhart Pride High School,public,Lockhart,78644,9-12,3,1,3.8000000000000003,29.899902,-97.67868,60
+133,24399,Lockhart Montessori School,private,Lockhart,78644,PK-2,3,1,3.8000000000000003,29.816467,-97.68207,51
+134,25308,Lago Vista Intermediate School,public,Lago Vista,78645,4-5,8,1,9.3,30.479277,-97.977684,51
+135,4530,Luling Elementary School,public,Luling,78648,2-5,2,2,3.2,29.678593,-97.65341,412
+136,4531,Luling High School,public,Luling,78648,9-12,2,4,4.2,29.678593,-97.65341,389
+137,4533,Luling J High School,public,Luling,78648,6-8,2,3,3.7,29.678593,-97.65341,322
+138,25021,Luling Primary School,public,Luling,78648,PK-1,2,3,3.7,29.678593,-97.65341,286
+139,4679,Mcdade Isd,public,McDade,78650,PK-5,3,4,5.300000000000001,30.304472,-97.24371,221
+140,25422,MCDADE H S,public,McDade,78650,6-11,4,4,6.4,30.304472,-97.24371,221
+141,7599,Elgin S D A Junior Academy,private,Elgin,78621,2-8,4,4,6.4,30.3112,-97.2819,221
+142,9460,Eric Dahlstrom Middle School,public,Buda,78610,6-8,7,4,9.700000000000001,30.097446,-97.881165,951
+143,11939,Carpenter Hill Elementary School,public,Buda,78610,PK-5,7,5,10.200000000000001,30.097046,-97.896736,679
+144,18901,Alter Impact Center,public,Buda,78610,6-12,7,5,10.200000000000001,30.095024,-97.8915,679
+145,9116,Elm Grove Elementary School,public,Buda,78610,K-5,6,5,9.100000000000001,30.08915,-97.87397,796
+146,34,Buda Elementary School,public,Buda,78610,PK-5,6,4,8.600000000000001,30.081722,-97.842896,500
+147,24439,Santa Cruz Catholic School,private,Buda,78610,PK-6,6,4,8.600000000000001,30.088205,-97.83153,284
+148,4572,Manor Excel Academy,public,Manor,78653,9-12,4,3,5.9,30.341097,-97.549225,112
+149,4568,Manor High School,public,Manor,78653,9-12,2,3,3.7,30.353064,-97.561874,1687
+150,11954,Presidential Meadows Elementary School,public,Manor,78653,PK-5,2,4,4.2,30.352667,-97.526276,606
+151,11842,Blake Manor Elementary School,public,Manor,78653,PK-5,4,3,5.9,30.308558,-97.53328,682
+152,4569,Manor Middle School,public,Manor,78653,6-8,2,3,3.7,30.357256,-97.56262,974
+153,25085,Shadowglen Elementary School,public,Manor,78653,PK-5,5,3,7.0,30.365084,-97.540375,741
+154,9125,Hemphill Elementary School,public,Kyle,78640,PK-5,2,3,3.7,29.94233,-97.82714,805
+155,12343,Hope Christian Academy,private,Martindale,78655,PK-12,2,5,4.7,29.85966,-97.86417,30
+156,25586,Weiss High S,public,Pflugerville,78660,9-12,5,3,7.0,30.431934,-97.570015,456
+157,11839,Kelly Lane Middle School,public,Pflugerville,78660,6-8,7,4,9.700000000000001,30.463251,-97.5855,1134
+158,10176,Hendrickson High School,public,Pflugerville,78660,9-12,7,4,9.700000000000001,30.464884,-97.58821,3027
+159,9129,Murchison Elementary School,public,Pflugerville,78660,PK-5,8,4,10.8,30.46789,-97.58584,766
+160,25186,Stonehill Christian Academy,private,Pflugerville,78660,PK-8,8,4,10.8,30.455957,-97.56197,35
+161,19472,Riojas Elementary School,public,Pflugerville,78660,PK-5,7,5,10.200000000000001,30.46693,-97.5684,839
+162,24679,Cele Middle,public,Pflugerville,78660,6-8,7,4,9.700000000000001,30.455742,-97.55129,816
+163,25587,Mott Elementary School,public,Pflugerville,78660,PK-5,7,4,9.700000000000001,30.45952,-97.553535,816
+164,11840,Rowe Lane Elementary School,public,Pflugerville,78660,PK-5,9,4,11.9,30.477545,-97.562546,829
+165,5609,Prairie Lea School,public,Prairie Lea,78661,PK-12,3,3,4.800000000000001,29.731325,-97.754234,169
+166,9130,Red Rock Elementary School,public,Red Rock,78662,PK-4,3,5,5.800000000000001,29.958399,-97.45116,726
+167,8114,Providence Christian Academy,private,Dale,78616,1-12,3,4,5.300000000000001,29.945547,-97.52919,17
+168,9140,Linda Herrington Elementary School,public,Round Rock,78665,PK-5,10,4,13.0,30.555746,-97.62337,891
+169,25146,Veterans Hill Elementary School,public,Round Rock,78665,PK-5,6,4,8.600000000000001,30.565615,-97.595406,554
+170,5898,Forest Creek Elementary School,public,Round Rock,78664,PK-5,7,4,9.700000000000001,30.508776,-97.60995,812
+171,19880,Gateway College Preparatory School,charter,Georgetown,78626,K-12,8,4,10.8,30.592962,-97.6415,1250
+172,3723,Hutto High School,public,Hutto,78634,9-12,6,3,8.100000000000001,30.536396,-97.56233,1775
+173,2920,Carver Elementary School,public,Georgetown,78626,PK-5,3,5,5.800000000000001,30.588884,-97.66136,823
+174,24909,Dearing Elementary School,public,Pflugerville,78660,PK-5,5,3,7.0,30.497234,-97.593796,592
+175,10032,Nadine Johnson Elementary School,public,Hutto,78634,PK-5,6,3,8.100000000000001,30.53447,-97.55924,711
+176,8695,Hutto Middle School,public,Hutto,78634,6-8,7,3,9.200000000000001,30.552645,-97.55317,717
+177,11444,Cottonwood Creek Elementary School,public,Hutto,78634,PK-5,5,3,7.0,30.556383,-97.55265,539
+178,25307,Howard Norman Elementary School,public,Hutto,78634,PK-5,6,3,8.100000000000001,30.518854,-97.55784,539
+179,3722,Hutto Elementary School,public,Hutto,78634,PK-5,7,4,9.700000000000001,30.549862,-97.53985,658
+180,7575,Wonderland School,private,San Marcos,78666,PK-6,7,5,10.200000000000001,29.900465,-97.97286,176
+181,7553,San Marcos Baptist Academy,private,San Marcos,78666,6-12,7,4,9.700000000000001,29.903345,-97.991516,276
+182,6125,Crockett Elementary School,public,San Marcos,78666,K-5,6,4,8.600000000000001,29.885685,-97.96142,643
+183,6127,Hernandez Elementary School,public,San Marcos,78666,K-5,5,4,7.5,29.866222,-97.968666,531
+184,24438,San Marcos Montessori School,private,San Marcos,78666,PK-1,5,4,7.5,29.88195,-97.94494,531
+185,7600,San Marcos Adventist Junior Academy,private,San Marcos,78667,PK-11,5,5,8.0,29.884342,-97.94194,74
+186,9504,Texas Preparatory School,charter,San Marcos,78667,PK-8,7,4,9.700000000000001,29.88416,-97.941696,147
+187,24647,Texas Preparatory School - Austin Campus,charter,San Marcos,78667,K-6,3,4,5.300000000000001,29.88416,-97.941696,104
+188,6132,Miller Middle School,public,San Marcos,78666,6-8,4,5,6.9,29.858635,-97.972145,706
+189,19615,Mendez Elementary School,public,San Marcos,78666,K-5,4,4,6.4,29.858128,-97.94779,551
+190,25000,Ki Charter Academy,charter,San Marcos,78666,1-12,1,4,3.1,29.899591,-97.927475,173
+191,7810,San Marcos Center School,private,San Marcos,78666,5-12,1,4,3.1,29.8967,-97.9268,173
+192,6129,Travis Elementary School,public,San Marcos,78666,K-5,2,4,4.2,29.896297,-97.92375,638
+193,6126,Goodnight Middle School,public,San Marcos,78666,6-8,4,4,6.4,29.858873,-97.93738,1000
+194,6130,Dezavala Elementary School,public,San Marcos,78666,K-5,3,3,4.800000000000001,29.856054,-97.9352,594
+195,6124,Bowie Elementary School,public,San Marcos,78666,K-5,4,4,6.4,29.842026,-97.94888,577
+196,7966,Hill Country Christian School Of San Marcos,private,San Marcos,78666,K-12,4,4,6.4,29.888653,-97.91073,206
+197,22,Jacob's Well Elementary School,public,Wimberley,78676,2-5,6,4,8.600000000000001,30.017944,-98.14437,636
+198,23,Wimberley High School,public,Wimberley,78676,9-12,7,4,9.700000000000001,30.005053,-98.11713,684
+199,20624,Wimberley Montessori,private,Wimberley,78676,PK-7,7,4,9.700000000000001,30.008251,-98.11329,42
+200,25,Danforth J High School,public,Wimberley,78676,6-8,8,5,11.3,30.003307,-98.11376,532
+201,24,Scudder Primary School,public,Wimberley,78676,PK-1,8,4,10.8,30.002565,-98.11059,337
+202,8563,Katherine Anne Porter School,charter,Wimberley,78676,9-12,5,5,8.0,29.997437,-98.09862,165
+203,5895,Old Town Elementary School,public,Round Rock,78681,PK-5,7,4,9.700000000000001,30.531343,-97.704445,669
+204,20426,Meridian World School Llc,charter,Round Rock,78664,K-12,8,4,10.8,30.537546,-97.69061,1650
+205,19531,Pfc Robert P Hernandez Middle School,public,Round Rock,78664,6-8,3,4,5.300000000000001,30.529718,-97.66617,816
+206,19529,Round Rock Opport Center Daep,public,Round Rock,78665,6-12,4,4,6.4,30.546898,-97.6758,60
+207,7923,Applegate SDA School,private,Round Rock,78680,4-11,4,4,6.4,30.547932,-97.67384,60
+208,8776,Stony Point High School,public,Round Rock,78664,9-12,6,4,8.600000000000001,30.529999,-97.66142,2600
+209,9134,Chandler Oaks Elementary School,public,Round Rock,78681,PK-5,9,3,11.4,30.55644,-97.73276,520
+210,5890,Double File Trail Elementary School,public,Round Rock,78665,PK-5,5,4,7.5,30.534344,-97.649216,613
+211,9138,Union Hill Elementary School,public,Round Rock,78665,PK-5,5,4,7.5,30.554312,-97.66135,818
+212,5897,Hopewell Middle School,public,Round Rock,78665,6-8,8,3,10.3,30.552605,-97.658806,993
+213,8777,Caldwell Heights Elementary School,public,Round Rock,78665,PK-5,6,4,8.600000000000001,30.565243,-97.66863,696
+214,25306,Rrisd Early College High S,public,Round Rock,78665,9-12,7,4,9.700000000000001,30.56158,-97.65704,735
+215,9141,Teravista Elementary School,public,Round Rock,78665,PK-5,8,4,10.8,30.575752,-97.66241,876
+216,24440,Sapientia Montessori School,private,Cedar Park,78613,PK-3,6,5,9.100000000000001,30.53201,-97.80654,619
+217,12198,Cedar Park Montessori School,private,Cedar Park,78613,PK-5,10,4,13.0,30.521534,-97.82558,110
+218,11543,Good Shepherd Lutheran School,private,Cedar Park,78630,1-3,6,2,7.6000000000000005,30.51848,-97.83771,754
+219,25192,Apple Blossom Center for Discovery,private,Leander,78641,PK-5,7,4,9.700000000000001,30.55476,-97.768234,6
+220,9136,Cactus Ranch Elementary School,public,Round Rock,78681,PK-5,10,4,13.0,30.540375,-97.72237,1037
+221,18920,Westside Elementary School,public,Cedar Park,78613,PK-5,8,4,10.8,30.49713,-97.85294,569
+222,4259,Lois F Giddens Elementary School,public,Cedar Park,78613,PK-5,4,4,6.4,30.524145,-97.84521,556
+223,4256,Block House Creek Elementary School,public,Leander,78641,PK-5,7,3,9.200000000000001,30.541235,-97.83188,642
+224,2032,Popham Elementary School,public,Austin,78617,PK-5,3,4,5.300000000000001,30.157845,-97.64396,775
+225,25590,Lagos Elementary School,public,Manor,78653,PK-5,7,5,10.200000000000001,30.332155,-97.56011,373
+226,2030,Del Valle High School,public,Travis County,78617,9-12,3,3,4.800000000000001,30.18,-97.61257,3003
+227,11955,Oak Meadows Elementary School,public,Manor,78653,PK-5,2,4,4.2,30.243221,-97.55703,564
+228,11953,Decker Middle School,public,Manor,78653,6-8,4,3,5.9,30.243427,-97.55673,855
+229,2037,Del Valle Opportunity Center,public,Travis County,78617,PK-12,4,4,6.4,30.178148,-97.61503,198
+230,9118,Del Valle Elementary School,public,Travis County,78617,PK-5,3,3,4.800000000000001,30.174398,-97.623146,837
+231,2031,Del Valle Middle School,public,Travis County,78617,6-8,4,3,5.9,30.173658,-97.62334,972
+232,11532,Concordia High School,private,Round Rock,78664,9-12,8,5,11.3,30.459965,-97.65253,119
+233,9932,Caldwell Elementary School,public,Round Rock,78664,PK-5,6,3,8.100000000000001,30.46883,-97.65532,706
+234,5423,Windermere Primary School,public,Pflugerville,78660,PK-2,5,4,7.5,30.464972,-97.64337,441
+235,5415,Windermere Elementary School,public,Pflugerville,78660,3-5,7,4,9.700000000000001,30.464579,-97.64243,418
+236,25194,Challenger School - Round Rock,private,Round Rock,78664,PK-2,6,4,8.600000000000001,30.495462,-97.64938,199
+237,9135,Neysa Callison Elementary School,public,Round Rock,78664,PK-5,4,3,5.9,30.502146,-97.659134,845
+238,9656,Cedar Ridge High School,public,Round Rock,78664,9-12,6,4,8.600000000000001,30.491676,-97.64061,2746
+239,20081,Triumph Academy of Round Rock,private,Round Rock,78664,K-3,6,4,8.600000000000001,30.50246,-97.657555,60
+240,5876,C D Fulkes Middle School,public,Round Rock,78664,6-8,4,3,5.9,30.511213,-97.68207,705
+241,5866,Gattis Elementary School,public,Round Rock,78665,PK-5,7,4,9.700000000000001,30.499079,-97.64156,735
+242,5417,Park Crest Middle School,public,Pflugerville,78660,6-8,7,3,9.200000000000001,30.456682,-97.61837,901
+243,5419,Brookhollow Elementary School,public,Pflugerville,78660,PK-5,5,3,7.0,30.452671,-97.61812,456
+244,19759,The Fellowship Christian Academy,private,Round Rock,78664,PK-3,10,2,12.0,30.495375,-97.62895,58
+245,19661,Applegate Adventist Jr Academy,private,Round Rock,78680,PK-7,10,2,12.0,30.517311,-97.6901,58
+246,9468,Ridgeview Middle School,public,Round Rock,78665,6-8,9,3,11.4,30.499964,-97.62572,1377
+247,9131,Blackland Prairie Elementary School,public,Round Rock,78665,PK-5,9,4,11.9,30.499018,-97.62299,812
+248,5879,Vic Robertson Elementary School,public,Round Rock,78664,PK-5,4,4,6.4,30.52395,-97.66328,491
+249,20569,St Dominic Savio Catholic High School,private,Austin,78717,9-12,6,5,9.100000000000001,30.489943,-97.75919,371
+250,19534,Elsa England Elementary School,public,Austin,78717,PK-5,10,4,13.0,30.49369,-97.750725,903
+251,5880,Cedar Valley Middle School,public,Austin,78717,6-8,10,4,13.0,30.492628,-97.73422,1368
+252,5899,Great Oaks Elementary School,public,Round Rock,78681,PK-5,9,4,11.9,30.495317,-97.73855,722
+253,19532,Pearson Ranch Middle,public,Austin,78717,6-8,9,4,11.9,30.496775,-97.75084,722
+254,25196,Challenger School - Avery Ranch,private,Austin,78717,PK-5,8,3,10.3,30.497791,-97.773125,906
+255,9133,Patsy Sommer Elementary School,public,Austin,78717,PK-5,10,4,13.0,30.504526,-97.75202,1073
+256,11575,Shoreline Christian School,private,Austin,78728,PK-7,9,3,11.4,30.45918,-97.69389,2709
+257,5881,Brushy Creek Elementary School,public,Round Rock,78681,PK-5,8,4,10.8,30.51133,-97.73747,800
+258,5882,Chisholm Trail Middle School,public,Round Rock,78681,6-8,7,4,9.700000000000001,30.502638,-97.70229,1045
+259,5889,Bluebonnet Elementary School,public,Round Rock,78681,PK-5,5,3,7.0,30.490246,-97.6912,572
+260,7856,Lifesprings Academy,private,Leander,78641,K-11,9,5,12.4,30.5172,-97.726,388
+261,5871,Deep Wood Elementary School,public,Round Rock,78681,PK-5,6,4,8.600000000000001,30.500263,-97.69713,373
+262,5867,Fern Bluff Elementary School,public,Round Rock,78681,PK-5,10,4,13.0,30.516706,-97.72056,656
+263,5875,Round Rock High School,public,Round Rock,78681,9-12,8,4,10.8,30.50922,-97.698395,3134
+264,9360,Goals,public,Round Rock,78681,6-12,8,5,11.3,30.508442,-97.69732,3134
+265,9655,Vista Ridge High School,public,Cedar Park,78613,9-12,8,4,10.8,30.516865,-97.78633,2252
+266,9127,Charlotte Cox Elementary School,public,Cedar Park,78613,PK-5,7,5,10.200000000000001,30.503473,-97.80544,684
+267,7880,Round Rock Christian Academy,private,Round Rock,78681,PK-12,6,4,8.600000000000001,30.509111,-97.69378,519
+268,19336,Ronald Reagan Elementary School,public,Cedar Park,78613,PK-5,8,4,10.8,30.514778,-97.796616,882
+269,9467,Artie L Henry Middle School,public,Cedar Park,78613,6-8,8,3,10.3,30.521412,-97.78858,1306
+270,24393,Kingdom Heights Christian School,private,Round Rock,78681,PK-11,3,5,5.800000000000001,30.515911,-97.69033,58
+271,5870,Claude Berkman Elementary School,public,Round Rock,78664,PK-5,5,5,8.0,30.51033,-97.68402,505
+272,11035,Illuminated Academy of Texas,private,Round Rock,78681,PK-2,5,5,8.0,30.5172,-97.6916,505
+273,9139,James Garland Walsh Middle School,public,Round Rock,78681,6-8,10,4,13.0,30.534952,-97.73412,1606
+274,9659,Success High School,public,Round Rock,78664,9-12,10,2,12.0,30.495544,-97.67189,392
+275,5878,Xenia Voigt Elementary School,public,Round Rock,78664,PK-5,5,3,7.0,30.49903,-97.673874,539
+276,16170,Bluebonnet Montessori School of Lakeway,private,Austin,78734,PK-3,10,5,13.5,30.373077,-97.93844,58
+277,4147,Lago Vista Elementary School,public,Austin,78734,PK-3,7,4,9.700000000000001,30.385658,-97.95364,526
+278,4148,Lago Vista High School,public,Austin,78734,9-12,6,3,8.100000000000001,30.385658,-97.95364,460
+279,4149,Lago Vista Middle School,public,Austin,78734,6-8,5,3,7.0,30.385658,-97.95364,425
+280,20137,The Magnolia School,private,Austin,78734,PK-8 & ungraded,5,5,8.0,30.38985,-97.938255,15
+281,10132,Canyon Ridge Middle School,public,Austin,78732,6-8,10,4,13.0,30.365335,-97.90305,1284
+282,20854,International School of Texas,private,Austin,78734,PK-6,10,5,13.5,30.403622,-97.92939,120
+283,9128,Laura Welch Bush Elementary School,public,Austin,78732,PK-5,10,4,13.0,30.366116,-97.89997,835
+284,4260,Steiner Ranch Elementary School,public,Austin,78732,PK-5,9,4,11.9,30.379328,-97.88424,632
+285,25212,4Points Academy,private,Austin,78732,1-9,9,4,11.9,30.389547,-97.88448,6
+286,25177,AESA Prep Academy,private,Austin,78737,4-12,8,4,10.8,30.199083,-98.00528,100
+287,12836,Montessori School Lake Travis,private,Bee Cave,78738,PK-1,10,4,13.0,30.3075,-97.9588,388
+288,4158,Lake Travis High School,public,Austin,78738,9-12,8,3,10.3,30.324848,-97.96807,2699
+289,4156,Lakeway Elementary School,public,Austin,78738,PK-5,9,5,12.4,30.327839,-97.96536,716
+290,4157,Lake Travis Elementary School,public,Austin,78738,PK-5,8,4,10.8,30.327839,-97.96536,888
+291,9471,Hudson Bend Middle School,public,Austin,78738,6-8,9,4,11.9,30.327839,-97.96536,1096
+292,9933,Lake Pointe Elementary School,public,Austin,78738,PK-5,10,4,13.0,30.327839,-97.96536,717
+293,11956,Serene Hills Elementary School,public,Austin,78738,PK-5,9,4,11.9,30.327839,-97.96536,769
+294,25154,West Cypress Hills Elementary School,public,Austin,78738,PK-5,9,4,11.9,30.327839,-97.96536,605
+295,8717,Bee Cave Elementary School,public,Austin,78738,PK-5,8,4,10.8,30.328274,-97.97106,623
+296,20057,Abercorn International School,private,Lakeway,78734,PK-6,8,4,10.8,30.35834,-97.95479,68
+297,4159,Lake Travis Middle School,public,Spicewood,78669,6-8,9,4,11.9,30.337112,-98.03066,1108
+298,18850,River Ridge Elementary School,public,Austin,78732,PK-5,10,5,13.5,30.34612,-97.91629,784
+299,20086,Skybridge Academy,private,Austin,78736,6-12,10,5,13.5,30.231865,-98.001045,40
+300,10900,Austin Discovery School,charter,Austin,78724,K-8,4,4,6.4,30.267902,-97.63531,543
+301,12099,Kipp Austin Collegiate,charter,Austin,78724,9-12,7,4,9.700000000000001,30.27235,-97.638405,627
+302,19925,Kipp Austin Academy Of Arts & Lett,charter,Austin,78724,5-8,7,3,9.200000000000001,30.27235,-97.638405,427
+303,20398,Kipp Austin Beacon Prep,charter,Austin,78724,5-8,4,3,5.9,30.27235,-97.638405,426
+304,20399,Kipp Austin Vista Middle Schools,charter,Austin,78724,5-8,4,3,5.9,30.27235,-97.638405,431
+305,20400,Kipp Austin Comunidad,charter,Austin,78724,PK-4,4,5,6.9,30.27235,-97.638405,603
+306,20401,Kipp Austin Connections Elementary School,charter,Austin,78724,PK-4,3,5,5.800000000000001,30.27235,-97.638405,601
+307,25309,KIPP Austin Brave,charter,Austin,78724,9-12,3,5,5.800000000000001,30.27235,-97.638405,601
+308,10705,Kipp Austin College Prep,charter,Austin,78724,5-8,4,4,6.4,30.270355,-97.63019,431
+309,11475,Travis County State Jail,public,Austin,78724,n/a,6,3,8.100000000000001,30.278334,-97.64186,319
+310,19852,Dailey Middle School,public,Austin,78725,6-8,3,2,4.300000000000001,30.243408,-97.59058,710
+311,20411,Joseph Gilbert Elementary School,public,Austin,78724,PK-5,4,2,5.4,30.258514,-97.59251,680
+312,2035,Baty Elementary School,public,Austin,78741,PK-5,3,3,4.800000000000001,30.227068,-97.712814,768
+313,24649,IDEA Montopolis College Preparatory,charter,Austin,78741,6-12,7,3,9.200000000000001,30.226158,-97.699524,1374
+314,24651,IDEA Montopolis Academy,charter,Austin,78741,K-5,6,5,9.100000000000001,30.226158,-97.699524,1374
+315,519,Allison Elementary School,public,Austin,78741,PK-6,7,3,9.200000000000001,30.235785,-97.69203,545
+316,543,Govalle Elementary School,public,Austin,78617,PK-5,1,4,3.1,30.210512,-97.65354,370
+317,614,Galindo Elementary School,public,Austin,78704,PK-5,3,3,4.800000000000001,30.229517,-97.7719,585
+318,539,Dawson Elementary School,public,Austin,78704,PK-5,6,4,8.600000000000001,30.234062,-97.76337,382
+319,11555,San Juan Diego Catholic High School,private,Austin,78704,8-12,4,4,6.4,30.240438,-97.763725,152
+320,616,Leadership Academy,public,Austin,78704,6-12,7,4,9.700000000000001,30.235638,-97.75366,27
+321,19893,Harmony School of Excellence - Austin,charter,Austin,78744,K-12,5,4,7.5,30.210432,-97.746735,588
+322,24798,Harmony School of Innovation,charter,Austin,78744,K-5,6,4,8.600000000000001,30.21006,-97.74532,468
+323,584,Travis High School,public,Austin,78704,9-12,3,4,5.300000000000001,30.233839,-97.743256,1291
+324,20405,Premier High School At Travis,charter,Austin,78704,9-12,1,4,3.1,30.233839,-97.743256,123
+325,556,Linder Elementary School,public,Austin,78741,1-5,3,3,4.800000000000001,30.224209,-97.73794,364
+326,2205,Valley View Elementary School,public,Austin,78746,K-5,9,5,12.4,30.302923,-97.83261,509
+327,24777,Fusion Academy Austin,private,Austin,78746,6-12,9,5,12.4,30.28804,-97.81678,55
+328,2202,Eanes Elementary School,public,West Lake Hills,78746,PK-5,10,4,13.0,30.28302,-97.81115,664
+329,10662,Trinity Episcopal School of AU,private,Austin,78746,K-8,10,4,13.0,30.2815,-97.8086,496
+330,24844,Adult Transition Services,public,Austin,78746,12,9,4,11.9,30.272945,-97.802,26
+331,8428,St. Gabriel's Catholic School,private,Austin,78735,PK-8,9,4,11.9,30.292027,-97.8712,457
+332,2209,Barton Creek Elementary School,public,Austin,78733,K-5,10,4,13.0,30.303408,-97.87958,505
+333,2207,West Ridge Middle School,public,Austin,78733,6-8,10,4,13.0,30.302864,-97.88434,946
+334,25183,Abrome,private,Austin,78733,"K-8, 10-12",6,4,8.600000000000001,30.33515,-97.87648,5
+335,11843,Creedmoor Elementary School,public,Austin,78747,PK-5,3,4,5.300000000000001,30.090845,-97.72035,721
+336,2034,Hillcrest Elementary School,public,Austin,78744,PK-5,2,4,4.2,30.16541,-97.729095,599
+337,9117,John P Ojeda J High School,public,Austin,78744,6-8,2,4,4.2,30.190788,-97.71197,886
+338,2033,Smith Elementary School,public,Austin,78744,PK-5,5,3,7.0,30.195934,-97.71339,792
+339,9663,Akins High School,public,Austin,78748,9-12,4,4,6.4,30.148985,-97.80186,2713
+340,561,Menchaca Elementary School,public,Manchaca,78652,PK-5,5,4,7.5,30.140526,-97.833046,719
+341,25331,Idea Bluff Springs College Preparatory,charter,Austin,78744,6-9,6,4,8.600000000000001,30.153843,-97.769135,415
+342,25437,Idea Bluff Springs Academy,charter,Austin,78744,K-5,6,4,8.600000000000001,30.153843,-97.769135,415
+343,600,Langford Elementary School,public,Austin,78744,PK-5,5,3,7.0,30.182083,-97.76337,687
+344,24673,Sci-Tech Preparatory,charter,Austin,78744,6-12,3,3,4.800000000000001,30.191423,-97.767136,431
+345,20396,The Real Learning Academy,charter,Austin,78744,PK-5,3,5,5.800000000000001,30.191423,-97.767136,693
+346,24802,Altamira Academy,charter,Austin,78744,PK-4,3,5,5.800000000000001,30.191423,-97.767136,320
+347,10795,Perez Elementary School,public,Austin,78744,PK-5,4,4,6.4,30.17085,-97.75624,752
+348,10788,Blazier Elementary School,public,Austin,78744,PK-5,7,3,9.200000000000001,30.158,-97.754295,842
+349,549,Houston Elementary School,public,Austin,78744,PK-5,3,4,5.300000000000001,30.196468,-97.75507,705
+350,24676,KIPP Austin Obras,charter,Austin,78744,K-4,3,4,5.300000000000001,30.204409,-97.75847,473
+351,24677,KIPP Austin Leadership Elementary School,charter,Austin,78744,K-4,3,4,5.300000000000001,30.204409,-97.75847,471
+352,609,Palm Elementary School,public,Austin,78744,PK-5,6,3,8.100000000000001,30.164824,-97.743675,481
+353,12235,City School,private,Austin,78741,PK-6,4,5,6.9,30.204332,-97.75476,90
+354,607,Mendez Middle School,public,Austin,78744,6-8,1,4,3.1,30.188675,-97.74306,790
+355,8617,Rodriguez Elementary School,public,Austin,78744,PK-5,2,3,3.7,30.200659,-97.74725,701
+356,611,Widen Elementary School,public,Austin,78744,PK-5,1,2,2.1,30.188713,-97.74008,450
+357,604,Patton Elementary School,public,Austin,78749,PK-5,6,4,8.600000000000001,30.2318,-97.84553,973
+358,608,Boone Elementary School,public,Austin,78749,PK-5,8,4,10.8,30.203724,-97.840225,573
+359,606,Covington Middle School,public,Austin,78749,6-8,5,4,7.5,30.211359,-97.83413,634
+360,8615,Small Middle School,public,Austin,78749,6-8,5,4,7.5,30.233706,-97.842,1006
+361,620,Mills Elementary School,public,Austin,78749,PK-5,9,4,11.9,30.210917,-97.8782,812
+362,566,Oak Hill Elementary School,public,Austin,78735,PK-5,6,4,8.600000000000001,30.237991,-97.858765,871
+363,7781,Bannockburn Christian Academy,private,Austin,78745,PK-5,6,4,8.600000000000001,30.212337,-97.8324,100
+364,20143,Veritas Academy,private,Austin,78749,K-12,6,5,9.100000000000001,30.23015,-97.83225,500
+365,613,Bowie High School,public,Austin,78749,9-12,9,4,11.9,30.186369,-97.85873,2912
+366,10746,Gorzycki Middle School,public,Austin,78749,6-8,9,3,11.4,30.214663,-97.89199,1341
+367,7992,Parkside Community School,private,Austin,78748,PK-6,9,5,12.4,30.1856,-97.85356,135
+368,596,Kiker Elementary School,public,Austin,78739,PK-5,10,4,13.0,30.191557,-97.881256,998
+369,9146,Cowan Elementary School,public,Austin,78748,PK-5,9,4,11.9,30.188688,-97.83348,790
+370,11519,Regents School Of Austin,private,Austin,78735,K-12,9,4,11.9,30.254488,-97.84532,1011
+371,610,Kocurek Elementary School,public,Austin,78748,PK-5,4,4,6.4,30.177746,-97.83525,544
+372,583,Sunset Valley Elementary School,public,Sunset Valley,78745,PK-5,5,4,7.5,30.226797,-97.80635,531
+373,538,Cunningham Elementary School,public,Austin,78745,PK-5,2,4,4.2,30.210476,-97.80581,415
+374,7587,Austin Montessori School,private,Austin,78745,PK-9,2,4,4.2,30.227676,-97.80505,350
+375,19664,Austin Montessori Great Northern Campus,private,Austin,78745,PK-3,2,5,4.7,30.227676,-97.80505,350
+376,24423,Primavera Montessori School,private,Austin,78745,PK-5,2,5,4.7,30.208569,-97.80367,130
+377,78,Eden Park Academy,charter,Austin,78745,PK-5,6,4,8.600000000000001,30.209324,-97.80313,458
+378,24327,Austin Children's Montessori,private,Austin,78748,PK-1,6,3,8.100000000000001,30.18366,-97.817055,40
+379,10787,Clayton Elementary School,public,Austin,78739,PK-5,10,5,13.5,30.194855,-97.906334,876
+380,537,Crockett High School,public,Austin,78745,9-12,4,4,6.4,30.214724,-97.79739,1542
+381,7925,Austin Waldorf School,private,Austin,78737,K-12,4,4,6.4,30.231415,-97.912796,388
+382,9929,Tnc Campus (Texas Neurorehabilitat,charter,Austin,78745,K-12,1,4,3.1,30.18896,-97.8058,73
+383,18787,Southwest Austin Middle School ,private,Austin,78704,6-8,1,5,3.6,30.2392,-97.79944,10
+384,8616,Casey Elementary School,public,Austin,78748,PK-5,4,4,6.4,30.177267,-97.81461,625
+385,24857,Austin Oaks,charter,Austin,78745,K-12,4,4,6.4,30.21135,-97.792694,3
+386,601,Bailey Middle School,public,Austin,78739,6-8,6,3,8.100000000000001,30.164225,-97.87242,873
+387,21331,Mr Darcy's Class,private,Austin,78737,1-6,6,5,9.100000000000001,30.232285,-97.91796,12
+388,7559,The Oaks School,private,Austin,78745,6-12,6,2,7.6000000000000005,30.2121,-97.7908,12
+389,552,Joslin Elementary School,public,Austin,78745,PK-5,4,4,6.4,30.228037,-97.79054,289
+390,568,Odom Elementary School,public,Austin,78745,PK-5,6,3,8.100000000000001,30.20562,-97.78878,542
+391,24785,Austin Village Academy,private,Austin,78704,K-9,6,3,8.100000000000001,30.231419,-97.787,32
+392,11838,Richards School For Young Women Leade,public,Austin,78704,6-12,9,4,11.9,30.236443,-97.788284,787
+393,8618,Baranoff Elementary School,public,Austin,78748,PK-5,9,4,11.9,30.153902,-97.852165,984
+394,19670,Capitol City Baptist Church,private,Austin,78745,K-6,9,4,11.9,30.224003,-97.78243,984
+395,526,Bedichek Middle School,public,Austin,78745,6-8,2,4,4.2,30.196163,-97.78622,908
+396,7749,Maranatha Christian Academy,private,Austin,78748,K-10,2,5,4.7,30.18099,-97.795044,908
+397,13016,Cedars Montessori School,private,Austin,78736,n/a,2,4,4.2,30.244003,-97.923386,908
+398,9472,Paredes Middle School,public,Austin,78748,6-8,4,3,5.9,30.165659,-97.81159,997
+399,587,Williams Elementary School,public,Austin,78748,PK-5,4,3,5.9,30.180973,-97.79151,458
+400,10790,Baldwin Elementary School,public,Austin,78739,PK-5,8,4,10.8,30.18489,-97.923454,787
+401,20667,Jackie's Performing Arts & Private Education,private,Austin,78748,PK-5,8,4,10.8,30.152407,-97.83523,787
+402,2201,Cedar Creek Elementary School,public,Austin,78746,K-5,9,5,12.4,30.269161,-97.80487,473
+403,2204,Westlake High School,public,Austin,78746,7-12,9,4,11.9,30.275679,-97.81373,2584
+404,9661,Westlake Alternative School,public,Austin,78746,9-12,9,4,11.9,30.278156,-97.81645,2584
+405,2203,Hill Country Middle School,public,Austin,78746,6-8,10,4,13.0,30.27101,-97.80366,1057
+406,7755,St. Michael's Catholic Academy,private,Austin,78735,9-12,10,4,13.0,30.2864,-97.8749,364
+407,2206,Forest Trail Elementary School,public,West Lake Hills,78746,K-5,10,4,13.0,30.281168,-97.8197,572
+408,581,St Elmo El,public,Austin,78745,PK-5,6,4,8.600000000000001,30.222063,-97.77338,295
+409,574,Pleasant Hill Elementary School,public,Austin,78745,PK-5,5,3,7.0,30.196213,-97.77649,566
+410,5873,Noel Grisham Middle School,public,Austin,78750,6-8,7,3,9.200000000000001,30.457403,-97.80668,700
+411,5883,Purple Sage Elementary School,public,Austin,78750,PK-5,6,4,8.600000000000001,30.457247,-97.82031,345
+412,8055,Hill Country Christian School,private,Austin,78750,PK-12,6,4,8.600000000000001,30.461445,-97.81817,619
+413,20796,The Joule School,private,Austin,78752,PK-6,9,5,12.4,30.462997,-97.81732,25
+414,18796,Cedar Park Jewish Day School,private,Cedar Park,78613,K-6,9,5,12.4,30.459967,-97.82724,1
+415,20112,Harmony School of Political Science and Communication - Austin,charter,Austin,78717,PK-12,8,3,10.3,30.470375,-97.786705,906
+416,11938,Grandview Hills Elementary School,public,Austin,78726,PK-5,6,4,8.600000000000001,30.415436,-97.85333,464
+417,5872,Forest North Elementary School,public,Austin,78729,PK-5,5,4,7.5,30.470728,-97.78183,404
+418,18843,El Daep,public,Austin,78729,K-5,5,4,7.5,30.470728,-97.78183,5
+419,4255,Cypress Elementary School,public,Cedar Park,78613,PK-5,6,4,8.600000000000001,30.465076,-97.83626,754
+420,11937,River Place Elementary School,public,Austin,78730,PK-5,8,4,10.8,30.38982,-97.84521,768
+421,4263,Pauline Naumann Elementary School,public,Cedar Park,78613,PK-5,8,4,10.8,30.47679,-97.82991,469
+422,2036,Hornsby-Dunlap Elementary School,public,Austin,78717,PK-5,3,3,4.800000000000001,30.475092,-97.7674,616
+423,4253,Cedar Park Middle School,public,Cedar Park,78613,6-8,9,3,11.4,30.475412,-97.836365,1418
+424,4262,Cedar Park High School,public,Cedar Park,78613,9-12,8,4,10.8,30.472292,-97.84363,1951
+425,7832,Summit Christian Academy of Cedar Park,private,Cedar Park,78613,PK-12,8,4,10.8,30.474709,-97.842354,385
+426,4251,Ada Mae Faubion Elementary School,public,Cedar Park,78613,PK-5,6,4,8.600000000000001,30.48871,-97.830345,524
+427,11215,Rutledge Elementary School,public,Austin,78717,PK-5,9,5,12.4,30.497648,-97.7935,796
+428,10157,Deer Creek Elementary School,public,Cedar Park,78613,PK-5,9,4,11.9,30.482552,-97.85308,692
+429,10514,Holy Family Catholic School,private,Austin,78717,PK-8,8,4,10.8,30.489832,-97.76092,560
+430,562,Metz Elementary School,public,Austin,78702,PK-5,3,5,5.800000000000001,30.254284,-97.721725,305
+431,558,Martin Middle School,public,Austin,78702,6-8,1,3,2.6,30.253086,-97.72987,456
+432,530,Brooke Elementary School,public,Austin,78702,PK-5,3,3,4.800000000000001,30.254822,-97.70851,254
+433,597,Allan Elementary School,public,Austin,78702,PK-5,3,4,5.300000000000001,30.255674,-97.69715,574
+434,9369,Texas School For The Deaf,public,Austin,78704,PK-12,1,4,3.1,30.253044,-97.75117,538
+435,20007,The East Austin College Prep Acade,charter,Austin,78721,PK-5,6,2,7.6000000000000005,30.26109,-97.682686,219
+436,10730,International High School,public,Austin,78721,9-12,5,3,7.0,30.257113,-97.68206,294
+437,18848,Eastside Memorial High School,public,Austin,78721,9-12,2,4,4.2,30.257113,-97.68206,560
+438,525,Becker Elementary School,public,Austin,78704,PK-5,7,4,9.700000000000001,30.250395,-97.75945,377
+439,18842,Daep- El,public,Austin,78704,PK-6,7,1,8.200000000000001,30.250395,-97.75945,16
+440,542,Fulmore Middle School,public,Austin,78704,6-8,5,4,7.5,30.243927,-97.750465,1007
+441,585,Travis Heights Elementary School,charter,Austin,78704,PK-5,6,4,8.600000000000001,30.24143,-97.74596,495
+442,8614,Phoenix Academy,public,Austin,78704,6-12,6,4,8.600000000000001,30.24414,-97.75614,34
+443,25268,Emergent Academy,private,Austin,78746,"1-5, 7-8",6,4,8.600000000000001,30.266872,-97.78992,30
+444,592,Zilker Elementary School,public,Austin,78704,PK-6,7,4,9.700000000000001,30.252544,-97.77457,538
+445,7302,St Ignatius Martyr School,private,Austin,78704,PK-8,5,4,7.5,30.23927,-97.75429,237
+446,524,Barton Hills Elementary School,public,Austin,78704,PK-6,9,4,11.9,30.254395,-97.783356,407
+447,564,Norman Elementary School,public,Austin,78721,PK-6,6,3,8.100000000000001,30.278324,-97.67397,319
+448,569,Ortega Elementary School,public,Austin,78721,PK-5,5,5,8.0,30.269997,-97.68428,316
+449,101,Texas Empowerment Academy,charter,Austin,78721,3-12,7,4,9.700000000000001,30.272999,-97.6724,88
+450,5408,Pflugerville Middle School,public,Pflugerville,78660,6-8,6,3,8.100000000000001,30.44283,-97.64108,999
+451,5421,Springhill Elementary School,public,Pflugerville,78660,PK-5,5,4,7.5,30.44429,-97.64065,617
+452,5406,Pflugerville Elementary School,public,Pflugerville,78660,PK-5,7,4,9.700000000000001,30.428051,-97.613625,416
+453,5407,Pflugerville High School,public,Pflugerville,78660,9-12,6,3,8.100000000000001,30.444378,-97.63302,2193
+454,5411,Timmerman Elementary School,public,Pflugerville,78660,PK-5,5,5,8.0,30.442696,-97.62472,397
+455,9137,Joe Lee Johnson Elementary School,public,Austin,78728,PK-5,5,4,7.5,30.45655,-97.68175,970
+456,4570,Bluebonnet Trail Elementary School,public,Austin,78754,PK-5,6,3,8.100000000000001,30.35188,-97.6174,542
+457,24939,Garcia Ymla,public,Austin,78724,6-8,3,3,4.800000000000001,30.311398,-97.64303,425
+458,8733,Decker Elementary School,public,Austin,78724,K-5,4,4,6.4,30.311619,-97.6169,507
+459,594,Jordan Elementary School,public,Austin,78724,PK-6,5,3,7.0,30.301088,-97.646774,674
+460,10792,Overton Elementary School,public,Austin,78724,PK-6,4,4,6.4,30.300186,-97.6367,718
+461,24310,Inside Outside School,private,Pflugerville,78660,K-6,5,5,8.0,30.396973,-97.598724,36
+462,25588,Manor New Technology Middle,public,Manor,78653,6-8,5,4,7.5,30.34385,-97.57494,575
+463,11952,Manor New Technology High School,public,Manor,78653,9-12,7,5,10.200000000000001,30.343725,-97.574196,373
+464,20402,The East Austin College Prep At Ml,charter,Austin,78721,6-12,3,1,3.8000000000000003,30.287785,-97.66676,574
+465,25613,IDEA Pflugerville Academy,charter,Pflugerville,78660,K-3,3,1,3.8000000000000003,30.419924,-97.61734,574
+466,25614,IDEA Pflugerville College Prep,charter,Pflugerville,78660,6-7,3,1,3.8000000000000003,30.419924,-97.61734,574
+467,8424,Praise Christian Academy,private,Austin,78721,PK-6,4,3,5.9,30.2861,-97.6676,846
+468,4571,Manor Elementary School,public,Manor,78653,PK-5,4,3,5.9,30.358585,-97.566154,538
+469,25112,University High School,charter,Austin,78705,9-12,4,4,6.4,30.283306,-97.73917,10
+470,7303,St Austin Catholic School,private,Austin,78705,PK-8,2,4,4.2,30.283016,-97.74282,220
+471,9657,University of Texas at Austin High School,public,Austin,78713,9-12,4,4,6.4,30.28,-97.74,600
+472,20118,K12 International Academy,private,Austin,78701,K-12,1,1,1.6,30.278719,-97.73881,35
+473,20119,The Keystone School,private,Austin,78701,6-12,1,1,1.6,30.278719,-97.73881,35
+474,20103,Acton Academy,private,Austin,78722,2-12,5,4,7.5,30.284405,-97.70996,42
+475,534,Campbell Elementary School,public,Austin,78722,PK-5,4,4,6.4,30.282291,-97.71334,253
+476,565,O Henry Middle School,public,Austin,78703,6-8,6,4,8.600000000000001,30.285492,-97.77376,931
+477,618,Garza Independence High School,public,Austin,78702,9-12,6,5,9.100000000000001,30.277237,-97.72139,192
+478,571,Pease Elementary School,public,Austin,78701,PK-6,7,4,9.700000000000001,30.275291,-97.74803,260
+479,559,Mathews Elementary School,public,Austin,78703,PK-6,8,5,11.3,30.278215,-97.760796,425
+480,10669,Headwaters School,private,Austin,78701,PK-12,4,5,6.9,30.27195,-97.74842,542
+481,7301,Cathedral School Of St Mary,private,Austin,78701,PK-8,4,4,6.4,30.270283,-97.73932,188
+482,10791,Padron Elementary School,public,Austin,78703,PK-5,7,4,9.700000000000001,30.272375,-97.756516,772
+483,10849,Austin St Hospital,public,Austin,78703,PK-12,7,4,9.700000000000001,30.272375,-97.756516,19
+484,605,Kealing Middle School,public,Austin,78702,6-8,8,4,10.8,30.270937,-97.72178,1203
+485,522,Austin High School,public,Austin,78703,9-12,7,4,9.700000000000001,30.273598,-97.76814,2084
+486,19663,Austin City Academy,private,Austin,78709,"K-3, 5-10, 12",7,4,9.700000000000001,30.2669,-97.7428,2084
+487,527,Blackshear Elementary School,public,Austin,78702,PK-5,8,5,11.3,30.266968,-97.72217,302
+488,567,Oak Springs Elementary School,public,Austin,78702,PK-5,3,5,5.800000000000001,30.271786,-97.70484,333
+489,18841,Alternative Learning Center,public,Austin,78702,6-12,5,5,8.0,30.268435,-97.71007,116
+490,24837,Ko School + Incubator,private,Austin,78704,6-12,5,5,8.0,30.264433,-97.76164,44
+491,580,Sims Elementary School,public,Austin,78721,PK-6,3,5,5.800000000000001,30.27941,-97.6854,267
+492,7447,St Stephens Episcopal School,private,Austin,78746,6-12,3,4,5.300000000000001,30.331476,-97.815834,688
+493,579,Sanchez Elementary School,public,Austin,78702,PK-5,5,3,7.0,30.257992,-97.735054,407
+494,10329,University Of Texas Elementary Charter School,charter,Austin,78702,PK-5,5,5,8.0,30.260305,-97.71761,303
+495,9366,George M Kometzky School,charter,Austin,78702,K-12,1,5,3.6,30.260305,-97.71761,53
+496,591,Zavala Elementary School,public,Austin,78702,PK-6,4,5,6.9,30.258272,-97.71954,350
+497,25022,Magnolia Montessori For All,charter,Austin,78724,PK-8,3,5,5.800000000000001,30.317167,-97.65826,475
+498,12100,Lbj High School,public,Austin,78724,9-12,2,4,4.2,30.313496,-97.65667,874
+499,12101,Lasa High School,public,Austin,78724,9-12,10,4,13.0,30.313496,-97.65667,1016
+500,7789,The Children's School,private,Austin,78731,PK-4,3,4,5.300000000000001,30.327642,-97.7507,149
+501,598,Rosedale,public,Austin,78756,PK-12,6,5,9.100000000000001,30.320051,-97.74019,263
+502,8367,Huntington-Surrey High School,private,Austin,78756,8-12,6,5,9.100000000000001,30.318382,-97.7376,40
+503,9367,Texas School For The Blind,public,Austin,78756,1-12,1,5,3.6,30.314978,-97.73932,153
+504,11581,Griffin School,private,Austin,78751,9-12,3,5,5.800000000000001,30.312716,-97.71971,125
+505,578,Ridgetop Elementary School,public,Austin,78751,PK-5,5,4,7.5,30.311796,-97.716255,292
+506,12005,TNS Academy,private,Austin,78756,K-5,4,5,6.9,30.3098,-97.7483,30
+507,11998,ACE Academy,private,Austin,78756,PK-8,4,4,6.4,30.308155,-97.74721,115
+508,11858,Odyssey School,private,Austin,78751,5-12,4,3,5.9,30.304052,-97.71981,40
+509,18793,AHB Community School,private,Austin,78751,K-8,4,4,6.4,30.30318,-97.73161,65
+510,546,Harris Elementary School,public,Austin,78723,PK-6,4,3,5.9,30.314829,-97.690765,629
+511,8352,Hyde Park Baptist School,private,Austin,78751,K-12,4,4,6.4,30.302217,-97.73187,622
+512,8339,Hyde Park Baptist Elementary School,private,Austin,78751,K-5,4,4,6.4,30.302164,-97.731804,622
+513,18838,Helping Hand,charter,Austin,78751,K-7,4,4,6.4,30.302364,-97.73645,24
+514,532,Bryker Woods Elementary School,public,Austin,78703,PK-6,9,5,12.4,30.304869,-97.750626,400
+515,7448,St. Andrew's Episcopal School,private,Austin,78705,K-12,8,4,10.8,30.301983,-97.748276,890
+516,24678,Dell Children's Medical Center,public,Austin,78723,PK-12,8,4,10.8,30.303455,-97.707344,2
+517,521,Andrews Elementary School,public,Austin,78723,PK-6,4,4,6.4,30.317554,-97.679665,657
+518,20006,Texas Empowerment Academy Elementary School,charter,Austin,78723,K-2,4,3,5.9,30.314514,-97.68152,199
+519,7492,Hope Lutheran School,private,Austin,78723,K-7,4,4,6.4,30.31469,-97.6811,199
+520,535,Casis Elementary School,public,Austin,78703,PK-5,10,5,13.5,30.304344,-97.76505,793
+521,528,Blanton Elementary School,public,Austin,78723,PK-6,5,4,7.5,30.30693,-97.69063,479
+522,25080,Sadler Means Ywla,public,Austin,78723,6-8,2,4,4.2,30.313578,-97.68073,341
+523,12409,Rawson Saunders,private,Austin,78703,1-12,6,4,8.600000000000001,30.301817,-97.765114,175
+524,7627,Kirby Hall School,private,Austin,78705,PK-12,8,4,10.8,30.294388,-97.74036,86
+525,20125,Clearview Sudbury School,private,Austin,78722,K-12,8,5,11.3,30.29586,-97.71111,32
+526,7495,St. Paul Lutheran School,private,Austin,78705,PK-8,8,5,11.3,30.29324,-97.72531,80
+527,555,Lee Elementary School,public,Austin,78705,PK-6,8,4,10.8,30.29305,-97.72763,375
+528,557,Maplewood Elementary School,public,Austin,78722,PK-6,4,5,6.9,30.293337,-97.714905,480
+529,20403,Austin Achieve Public Schools,charter,Austin,78723,6-12,4,4,6.4,30.307661,-97.680504,671
+530,2208,Bridge Point El,public,Austin,78746,K-5,10,5,13.5,30.340866,-97.80639,739
+531,11403,Wall Sp Prog,public,Austin,78712,K-8,10,5,13.5,30.289062,-97.736496,3
+532,8422,Austin Peace Academy,private,Austin,78723,PK-12,6,4,8.600000000000001,30.299353,-97.686516,575
+533,25584,Kozmetsky At Rathgeber Village,charter,Austin,78723,7-12,4,3,5.9,30.296387,-97.68996,846
+534,11996,Girls' School Of Austin,private,Austin,78703,K-8,4,4,6.4,30.292788,-97.76355,150
+535,588,Winn Elementary School,public,Austin,78723,PK-6,3,3,4.800000000000001,30.314882,-97.66498,304
+536,24804,Long-View Micro-School,private,Austin,78705,2-5,3,3,4.800000000000001,30.288166,-97.75077,37
+537,7293,Sacred Heart Catholic School,private,Austin,78723,PK-6,3,3,4.800000000000001,30.303,-97.6774,37
+538,572,Pecan Springs Elementary School,public,Austin,78723,PK-6,5,3,7.0,30.303139,-97.676315,464
+539,8109,The Isely School,private,Austin,78705,K-3,10,4,13.0,30.2874,-97.7519,800
+540,7545,Holy Word Christian Academy,private,Austin,78753,K-8,6,5,9.100000000000001,30.3685,-97.675385,8
+541,544,Graham Elementary School,public,Austin,78753,PK-5,8,4,10.8,30.37236,-97.66886,697
+542,9423,Harmony Science Academy - Austin,charter,Austin,78753,PK-12,5,3,7.0,30.357164,-97.684784,562
+543,5424,Copperfield Elementary School,public,Austin,78753,PK-5,6,4,8.600000000000001,30.388332,-97.65998,468
+544,540,Dobie Middle School,public,Austin,78753,6-8,3,3,4.800000000000001,30.35455,-97.679375,579
+545,9144,Cedars International Academy,charter,Austin,78753,PK-7,3,4,5.300000000000001,30.348295,-97.695366,390
+546,7808,Our Savior Lutheran School,private,Austin,78753,PK-5,4,4,6.4,30.386408,-97.65198,53
+547,619,Hart Elementary School,public,Austin,78753,PK-5,7,3,9.200000000000001,30.342451,-97.68871,692
+548,25102,The Excel Center (For Adults),charter,Austin,78753,9-12,7,3,9.200000000000001,30.339088,-97.69408,147
+549,25244,The Excel Center,charter,Austin,78753,9-12,7,3,9.200000000000001,30.339088,-97.69408,282
+550,25447,Excel Center Lockhart,charter,Austin,78753,9-12,7,3,9.200000000000001,30.339088,-97.69408,282
+551,24472,Victory Christian Center School,private,Austin,78752,PK-12,7,3,9.200000000000001,30.336903,-97.698166,282
+552,5412,Northwest Elementary School,public,Austin,78728,PK-5,3,5,5.800000000000001,30.431906,-97.67626,540
+553,9473,Dessau Middle School,public,Austin,78754,6-8,3,3,4.800000000000001,30.397984,-97.64358,760
+554,9931,Delco Primary School,public,Austin,78754,PK-2,3,4,5.300000000000001,30.397984,-97.64358,601
+555,5413,Dessau Elementary School,public,Austin,78754,3-5,5,4,7.5,30.401651,-97.643936,510
+556,18840,Travis County Day School,public,Austin,78754,6-12,5,4,7.5,30.335697,-97.68336,6
+557,9142,Pickle Elementary School,public,Austin,78752,PK-5,2,3,3.7,30.333408,-97.693825,695
+558,593,Webb Middle School,public,Austin,78752,6-8,2,4,4.2,30.332413,-97.707405,699
+559,20409,Webb Primary Center,public,Austin,78752,PK-5,3,5,5.800000000000001,30.332413,-97.707405,217
+560,20704,Renaissance Academy,private,Austin,78728,PK-12,3,4,5.300000000000001,30.434893,-97.67047,187
+561,10057,St Francis School,private,Austin,78752,PK-8,3,5,5.800000000000001,30.331245,-97.71006,403
+562,25310,Cedars Academy Next Generation H S at Highland,charter,Austin,78752,8-12,8,4,10.8,30.329008,-97.707436,1365
+563,20410,Ruth Barron Elementary School,public,Pflugerville,78660,PK-5,6,5,9.100000000000001,30.423464,-97.64786,744
+564,18849,Pioneer Crossing Elementary School,public,Austin,78754,PK-5,6,4,8.600000000000001,30.362078,-97.63998,692
+565,577,Reilly Elementary School,public,Austin,78752,PK-5,7,4,9.700000000000001,30.327883,-97.71982,274
+566,19471,Harmony Science Academy North Aust,charter,Pflugerville,78660,6-12,8,3,10.3,30.439648,-97.66383,808
+567,560,Mccallum High School,public,Austin,78756,9-12,7,4,9.700000000000001,30.327484,-97.72887,1738
+568,576,Reagan High School,public,Austin,78752,9-12,3,4,5.300000000000001,30.324188,-97.69135,1302
+569,11926,Wieland Elementary School,public,Pflugerville,78660,PK-5,4,3,5.9,30.422312,-97.63933,430
+570,24371,Greater Calvary Academy,private,Austin,78723,K-6,7,4,9.700000000000001,30.319225,-97.69028,11
+571,24723,Athlos Leadership Academy- Austin,charter,Austin,78728,PK-9,6,4,8.600000000000001,30.457558,-97.688,180
+572,595,Davis Elementary School,public,Austin,78727,PK-5,6,5,9.100000000000001,30.418247,-97.74218,798
+573,12476,Hyde Park Baptist High School,private,Austin,78759,"6, 9-12",6,4,8.600000000000001,30.40086,-97.730064,550
+574,5874,Kathy Caraway Elementary School,public,Austin,78759,PK-5,8,4,10.8,30.419579,-97.7696,739
+575,548,Hill Elementary School,public,Austin,78759,PK-5,8,4,10.8,30.376625,-97.74854,970
+576,520,Anderson High School,public,Austin,78759,9-12,8,4,10.8,30.37575,-97.75371,2270
+577,5887,Laurel Mountain Elementary School,public,Austin,78759,PK-5,10,4,13.0,30.413939,-97.78091,800
+578,12290,Casner Christian Academy,private,Austin,78759,PK-1,10,4,13.0,30.373693,-97.75005,84
+579,10048,Kamico Academy,private,Austin,78759,K-6,10,4,13.0,30.3727,-97.7586,84
+580,582,Summitt Elementary School,public,Austin,78727,PK-5,8,4,10.8,30.418608,-97.71907,815
+581,573,Pillow Elementary School,public,Austin,78757,PK-5,4,4,6.4,30.369263,-97.73339,518
+582,10049,Austin International School,private,Austin,78727,PK-5,4,4,6.4,30.42242,-97.71807,199
+583,20397,Harmony School of Science - Austin,charter,Austin,78758,K-5,4,2,5.4,30.400635,-97.70883,546
+584,5885,Canyon Vista Middle School,public,Austin,78759,6-8,10,4,13.0,30.428354,-97.78429,1398
+585,24441,Scotish Rite Dyslexia Center,private,Austin,78750,5,10,4,13.0,30.436186,-97.77224,1398
+586,5868,Jollyville Elementary School,public,Austin,78729,PK-5,6,4,8.600000000000001,30.444317,-97.750755,489
+587,533,Burnet Middle School,public,Austin,78757,6-8,2,3,3.7,30.365074,-97.7256,1020
+588,20124,The Magellan International School,private,Austin,78731,PK-8,2,5,4.7,30.358206,-97.76095,460
+589,8096,Austin Jewish Academy,private,Austin,78731,K-8,2,4,4.2,30.357513,-97.75502,130
+590,7816,Strickland School,private,Austin,78715,PK-8,2,4,4.2,30.447,-97.749,180
+591,5888,Pond Springs Elementary School,public,Austin,78729,PK-5,5,4,7.5,30.446201,-97.76417,640
+592,9147,Nyos - Magnolia Mccullough Campus,charter,Austin,78758,PK-3,8,4,10.8,30.38466,-97.70277,324
+593,541,Doss Elementary School,public,Austin,78731,PK-5,9,4,11.9,30.356087,-97.76281,884
+594,5410,Parmer Lane Elementary School,public,Austin,78727,PK-5,7,3,9.200000000000001,30.418943,-97.70227,462
+595,536,Cook Elementary School,public,Austin,78758,PK-5,5,3,7.0,30.378002,-97.70482,553
+596,563,Murchison Middle School,public,Austin,78731,6-8,7,4,9.700000000000001,30.353977,-97.75872,1365
+597,24382,International Montessori House,private,Austin,78731,PK-1,7,4,9.700000000000001,30.352783,-97.75659,1365
+598,12308,Boys Menachem Hebrew Academy,private,Austin,78731,PK-8,7,4,9.700000000000001,30.35242,-97.7568,1365
+599,8495,Settlement Home,charter,Austin,78758,6-12,1,3,2.6,30.365156,-97.71341,35
+600,5891,Mcneil High School,public,Austin,78729,9-12,7,4,9.700000000000001,30.448587,-97.73333,2625
+601,8068,Bais Menachem Hebrew Academy,private,Austin,78727,PK-6,7,5,10.200000000000001,30.41608,-97.69663,2625
+602,589,Wooldridge Elementary School,public,Austin,78758,PK-5,5,4,7.5,30.364952,-97.70985,630
+603,7305,St Louis School,private,Austin,78757,PK-8,5,4,7.5,30.35219,-97.733,241
+604,5894,Deerpark Middle School,public,Austin,78729,6-8,6,4,8.600000000000001,30.452366,-97.77288,899
+605,5892,Live Oak Elementary School,public,Austin,78729,PK-5,6,4,8.600000000000001,30.45348,-97.771126,580
+606,7479,Redeemer Lutheran School,private,Austin,78757,PK-8,6,4,8.600000000000001,30.352537,-97.72068,508
+607,9148,Mcbee Elementary School,public,Austin,78758,PK-5,7,3,9.200000000000001,30.38325,-97.69106,490
+608,554,Lanier High School,public,Austin,78758,9-12,3,4,5.300000000000001,30.360209,-97.70832,1615
+609,20406,Premier High School At Lanier,charter,Austin,78758,9-12,1,4,3.1,30.360209,-97.70832,124
+610,590,Wooten Elementary School,public,Austin,78757,PK-5,6,3,8.100000000000001,30.352917,-97.71915,613
+611,5414,Westview Middle School,public,Austin,78727,6-8,4,3,5.9,30.416716,-97.689575,846
+612,5409,River Oaks Elementary School,public,Austin,78758,PK-5,5,3,7.0,30.408642,-97.68686,548
+613,545,Gullett Elementary School,public,Austin,78757,PK-5,10,4,13.0,30.343542,-97.74867,574
+614,19725,Oakmont School,private,Austin,78757,K-12,10,4,13.0,30.34799,-97.724556,574
+615,18785,House Sparrows Academy ,private,Austin,78758,1-3,10,4,13.0,30.355415,-97.709785,5
+616,8479,Brentwood Christian School,private,Austin,78753,PK-12,10,5,13.5,30.39087,-97.68241,756
+617,12499,Brentwood Christian Secondary School,private,Austin,78753,10-12,10,5,13.5,30.39087,-97.68241,756
+618,7771,St. Theresas Catholic School,private,Austin,78731,PK-8,10,4,13.0,30.342485,-97.77419,390
+619,19335,Vandegrift High School,public,Austin,78750,9-12,8,4,10.8,30.397078,-97.824104,2257
+620,5877,Spicewood Elementary School,public,Austin,78750,K-5,10,4,13.0,30.444965,-97.80434,808
+621,586,Walnut Creek Elementary School,public,Austin,78753,PK-6,3,4,5.300000000000001,30.379194,-97.68413,634
+622,523,Barrington Elementary School,public,Austin,78753,PK-6,4,3,5.9,30.360529,-97.69607,627
+623,99,Chaparral Star Academy,charter,Austin,78728,K-12,9,4,11.9,30.43782,-97.691895,388
+624,93,Nyos Charter School,charter,Austin,78753,4-12,8,4,10.8,30.402246,-97.67847,603
+625,24378,Hope Children's Center,private,Austin,78750,K,8,4,10.8,30.445484,-97.806114,603
+626,529,Brentwood Elementary School,public,Austin,78757,PK-5,7,4,9.700000000000001,30.33964,-97.731445,617
+627,553,Lamar Middle School,public,Austin,78757,6-8,7,4,9.700000000000001,30.337774,-97.74058,895
+628,10789,Guerrero Thompson,public,Austin,78753,PK-5,7,4,9.700000000000001,30.363888,-97.691666,673
+629,24753,Lake Travis STEM Academy,private,Austin,78726,K-12,7,5,10.200000000000001,30.360304,-97.69251,30
+630,19876,Four Points Middle School,public,Austin,78750,6-8,9,5,12.4,30.3975,-97.829254,741
+631,531,Brown Elementary School,public,Austin,78752,PK-6,4,3,5.9,30.344769,-97.71034,358
+632,5884,Westwood High School,public,Austin,78750,9-12,9,4,11.9,30.456322,-97.7977,2709
+633,5420,John B Connally High School,public,Austin,78753,9-12,4,4,6.4,30.41821,-97.676346,1901
+634,20136,Schoolhouse Academy,private,Austin,78750,K-2,4,4,6.4,30.45932,-97.794205,12
+635,8076,Paragon Prep School,private,Austin,78756,K-8,4,5,6.9,30.333954,-97.73803,215
+636,12241,Capitol School Of Austin,private,Austin,78756,PK-4,4,5,6.9,30.333742,-97.73906,40
+637,7598,Austin SDA Junior Academy,private,Austin,78752,K-10,4,1,4.9,30.344398,-97.70773,40
+638,24980,IDEA Rundberg Academy,charter,Austin,78753,K-5,6,1,7.1000000000000005,30.360958,-97.687805,940
+639,24981,IDEA Rundberg College Preparatory,charter,Austin,78753,6-10,6,1,7.1000000000000005,30.360958,-97.687805,940
+640,5869,Anderson Mill Elementary School,public,Austin,78750,PK-5,7,3,9.200000000000001,30.452835,-97.806854,515
+641,547,Highland Park Elementary School,public,Austin,78731,PK-5,9,4,11.9,30.330692,-97.76005,622
+642,5901,Canyon Creek Elementary School,public,Austin,78726,PK-5,10,5,13.5,30.436604,-97.82424,417
+643,5886,Wells Branch Elementary School,public,Austin,78728,PK-5,4,4,6.4,30.44641,-97.68799,951
+644,6305,Brown Primary School,public,Smithville,78957,PK-2,4,3,5.9,30.008554,-97.15943,468
+645,6306,Smithville Elementary School,public,Smithville,78957,3-5,5,3,7.0,30.008554,-97.15943,397
+646,6307,Smithville High School,public,Smithville,78957,9-12,4,5,6.9,30.008554,-97.15943,547
+647,6308,Smithville J High School,public,Smithville,78957,6-8,5,3,7.0,30.008554,-97.15943,376
